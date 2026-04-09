@@ -3,4 +3,3 @@ __pycache__/
 *.pyo
 .ipynb_checkpoints/
 notebook_executed.ipynb
-*.png
